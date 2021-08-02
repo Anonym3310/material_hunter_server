@@ -1,0 +1,2 @@
+#! /bin/sh
+echo $(pwd) > /previous.TO; cd /etc; if [ -f "/etc/group" ]; then typo=`grep -w "android_inet\|aid_inet\|inet" group`; if [ -z $typo ]; then echo "ANDROID inet group doesn't exists!"; else sed -i s/$typo/"inet:x:3003:"/g group; echo "Setup done! Now u must add root user to new inet group with: usermod -a -G inet root"; fi; else echo "/etc/group file doesn't exist"; fi; cd $(cat /previous.TO); rm /previous.TO;
