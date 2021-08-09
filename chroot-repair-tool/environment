@@ -7,9 +7,6 @@ MNT="/data/local/nhsystem/chroot"
 ## Define busybox
 BUSYBOX=`which busybox | which busybox_nh`
 
-## Combine android $PATH to chroot $PATH
-export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH
-
 ## Validate busybox path.
 if [ -z "$BUSYBOX" ]; then
     echo "[-] No busybox found."
