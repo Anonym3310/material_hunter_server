@@ -110,6 +110,8 @@ if [ $RES -eq 1 ]; then
 fi
 
 clear
+## Combine android $PATH to chroot $PATH
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH
 echo "
 Now you can work and adjust the choot as you need.
 We remind you that if the system does not have an apt key, you can use a protection bypass:
