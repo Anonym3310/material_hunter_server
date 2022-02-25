@@ -1,8 +1,5 @@
 {
     "Kali 2019/Android": {
         "filename": "kalifs-arm64-minimal-2019.1.tar.gz"
-    },
-    "Hello world!": {
-        "filename": "example.tar.gz"
     }
 }
