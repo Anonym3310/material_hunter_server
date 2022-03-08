@@ -1,1 +1,5 @@
-{}
+{
+    "Kali 2019/Android": {
+        "test": "kalifs-arm64-minimal-2019.1.tar.gz"
+    }
+}
