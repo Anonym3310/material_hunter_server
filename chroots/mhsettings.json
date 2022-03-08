@@ -1,5 +1,5 @@
 {
     "Kali 2019/arm64": {
-      "test": "kalifs-arm64-minimal-2019.1.tar.gz"
+      "filename": "kalifs-arm64-minimal-2019.1.tar.gz"
     }
 }
