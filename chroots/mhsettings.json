@@ -5,14 +5,14 @@
     },
     "Kali latest/arm64/full": {
         "filename": "",
-        "url": "http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz"
+        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz"
     },
     "Kali latest/arm64/minimal": {
         "filename": "",
-        "url": "http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-minimal.tar.xz"
+        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-minimal.tar.xz"
     },
     "Kali latest/arm64/nano": {
         "filename": "",
-        "url": "http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-nano.tar.xz"
+        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-nano.tar.xz"
     }
 }
