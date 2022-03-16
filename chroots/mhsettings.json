@@ -1,8 +1,10 @@
 {
     "Kali 2019/arm64": {
-        "filename": "kalifs-arm64-minimal-2019.1.tar.gz"
+        "filename": "kalifs-arm64-minimal-2019.1.tar.gz",
+        "url": ""
     },
     "Test element": {
-        "filename": "test.py"
+        "filename": "test.py",
+        "url": ""
     }
 }
