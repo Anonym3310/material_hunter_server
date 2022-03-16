@@ -1,7 +1,7 @@
 {
     "Kali 2019/arm64": {
-        "filename": "kalifs-arm64-minimal-2019.1.tar.gz",
-        "url": ""
+        "filename": "",
+        "url": "https://github.com/Mirivan/dev-root-project/raw/main/chroots/kalifs-arm64-minimal-2019.1.tar.gz"
     },
     "Test element": {
         "filename": "test.py",
