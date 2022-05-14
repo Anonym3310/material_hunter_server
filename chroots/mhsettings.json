@@ -6,17 +6,17 @@
     },
     "Kali latest/arm64/full": {
         "file": "",
-        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz"
+        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz",
         "author": "Offensive Security"
     },
     "Kali latest/arm64/minimal": {
         "file": "",
-        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-minimal.tar.xz"
+        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-minimal.tar.xz",
         "author": "Offensive Security"
     },
     "Kali latest/arm64/nano": {
         "file": "",
-        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-nano.tar.xz"
+        "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-nano.tar.xz",
         "author": "Offensive Security"
     }
 }
