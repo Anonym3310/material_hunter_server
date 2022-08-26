@@ -1,41 +1,41 @@
 {
-    0: {
+    "0": {
         "name": "Kali 2019/arm64",
         "url": "https://github.com/Mirivan/dev-root-project/raw/main/chroots/kalifs-arm64-minimal-2019.1.tar.gz",
         "file": "",
         "author": "Mirivan"
     },
-    1: {
+    "1": {
         "name": "Kali latest/arm64/full",
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz",
         "author": "Offensive Security"
     },
-    2: {
+    "2": {
         "name": "Kali latest/arm64/minimal",
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-minimal.tar.xz",
         "author": "Offensive Security"
     },
-    3: {
+    "3": {
         "name": "Kali latest/arm64/nano",
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-nano.tar.xz",
         "author": "Offensive Security"
     },
-    4: {
+    "4": {
         "name": "Kali latest/armhf/full",
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz",
         "author": "Offensive Security"
     },
-    5: {
+    "5": {
         "name": "Kali latest/armhf/minimal",
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-minimal.tar.xz",
         "author": "Offensive Security"
     },
-    6: {
+    "6": {
         "name": "Kali latest/armhf/nano",
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-nano.tar.xz",
