@@ -40,5 +40,11 @@
         "file": "",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-nano.tar.xz",
         "author": "Offensive Security"
+    },
+    "7": {
+        "name": "Ubuntu 20.04/arm64/minimal",
+        "file": "",
+        "url": "https://github.com/KekHunterOS/Chroot/releases/download/0.4/ubuntu-arm64.tar.xz",
+        "author": "KekHunter"
     }
 }
