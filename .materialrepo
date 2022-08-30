@@ -49,7 +49,6 @@
         "url": "https://cdimage.ubuntu.com/ubuntu-base/releases/20.04/release/ubuntu-base-20.04.4-base-arm64.tar.gz",
         "author": "Canonical (Official)"
     },
-    },
     "10": {
         "name": "Ubuntu 22.04.1/armhf/minimal",
         "url": "https://cdimage.ubuntu.com/ubuntu-base/releases/22.04/release/ubuntu-base-22.04.1-base-armhf.tar.gz",
