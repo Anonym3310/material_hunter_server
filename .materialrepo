@@ -34,47 +34,22 @@
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-nano.tar.xz",
         "author": "Offensive Security"
     },
-    "7": {
-        "name": "Ubuntu 20.04/arm64/minimal",
-        "url": "https://github.com/KekHunterOS/Chroot/releases/download/0.4/ubuntu-arm64.tar.xz",
-        "author": "KekHunter"
-    },
-    "8": {
-        "name": "Ubuntu 22.04.1/arm64/minimal",
-        "url": "https://cdimage.ubuntu.com/ubuntu-base/releases/22.04/release/ubuntu-base-22.04.1-base-arm64.tar.gz",
-        "author": "Canonical (Official)"
-    },
-    "9": {
-        "name": "Ubuntu 20.04.4/arm64/minimal",
-        "url": "https://cdimage.ubuntu.com/ubuntu-base/releases/20.04/release/ubuntu-base-20.04.4-base-arm64.tar.gz",
-        "author": "Canonical (Official)"
-    },
-    "10": {
-        "name": "Ubuntu 22.04.1/armhf/minimal",
-        "url": "https://cdimage.ubuntu.com/ubuntu-base/releases/22.04/release/ubuntu-base-22.04.1-base-armhf.tar.gz",
-        "author": "Canonical (Official)"
-    },
-    "11": {
-        "name": "Ubuntu 20.04.4/armhf/minimal",
-        "url": "https://cdimage.ubuntu.com/ubuntu-base/releases/20.04/release/ubuntu-base-20.04.4-base-armhf.tar.gz",
-        "author": "Canonical (Official)"
-    },
-    "12": {
+    "7: {
         "name": "Arch Linux arm64/full",
         "url": "https://github.com/KekHunterOS/Chroot/releases/download/0.4/arch-arm64.tar.xz",
         "author": "KekHunter"
     },
-    "13": {
-        "name": "Alpine Linux arm64/full",
+    "8": {
+        "name": "Alpine Linux aarch64/full",
         "url": "https://github.com/Anonym3310/Alpine-Chroot/releases/download/v1.0/alpine-aarch64.tar.gz",
         "author": "Anonym3310"
     },
-    "14": {
+    "9": {
         "name": "Alpine Linux aarch64/minimal",
         "url": "https://github.com/Anonym3310/Alpine-Chroot/releases/download/v1.0/alpine-minimal-aarch64.tar.gz",
         "author": "Anonym3310"
     },
-    "15": {
+    "10": {
         "name": "Alpine Linux armhf/minimal",
         "url": "https://github.com/Anonym3310/Alpine-Chroot/releases/download/v1.0/alpine-minimal-armhf.tar.gz",
         "author": "Anonym3310"
