@@ -33,25 +33,5 @@
         "name": "Kali latest/armhf/nano",
         "url": "https://kali.download/nethunter-images/current/rootfs/kalifs-armhf-nano.tar.xz",
         "author": "Offensive Security"
-    },
-    "7: {
-        "name": "Arch Linux arm64/full",
-        "url": "https://github.com/KekHunterOS/Chroot/releases/download/0.4/arch-arm64.tar.xz",
-        "author": "KekHunter"
-    },
-    "8": {
-        "name": "Alpine Linux aarch64/full",
-        "url": "https://github.com/Anonym3310/Alpine-Chroot/releases/download/v1.0/alpine-aarch64.tar.gz",
-        "author": "Anonym3310"
-    },
-    "9": {
-        "name": "Alpine Linux aarch64/minimal",
-        "url": "https://github.com/Anonym3310/Alpine-Chroot/releases/download/v1.0/alpine-minimal-aarch64.tar.gz",
-        "author": "Anonym3310"
-    },
-    "10": {
-        "name": "Alpine Linux armhf/minimal",
-        "url": "https://github.com/Anonym3310/Alpine-Chroot/releases/download/v1.0/alpine-minimal-armhf.tar.gz",
-        "author": "Anonym3310"
     }
 }
